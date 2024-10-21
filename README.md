@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khanshebi514
 - 👀 I’m interested in Full stack Developemnt especially MERN
-- 🌱 I’m currently learning Larvel
+- 🌱 I’m currently learning Larvel & Node.js in depth with 
 - 💞️ I’m looking to collaborate on AI and BLOACKCHAIN
 - 📫 khanshebi514@gmail.com
 - 😄 Pronouns: shebi
